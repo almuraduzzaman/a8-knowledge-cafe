@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "author_name": "Emerson Allwright",
+        "blog_title": "Uncovering the Hidden Gems of Travel Destinations You've Overlooked",
+        "blog_cover_image": "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "author_image": "https://xsgames.co/randomusers/avatar.php?g=male",
+        "read_time": 20,
+        "publish_date": "05/17/2022",
+        "hash_tags": ["#Advanced", "#Programming"]
+    },
+    {
+        "id": 2,
+        "author_name": "Reynard Brushneen",
+        "blog_title": "The Power of Positive Thinking: How to Change Your Life",
+        "blog_cover_image": "https://images.unsplash.com/photo-1545239351-ef35f43d514b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "author_image": "https://xsgames.co/randomusers/avatar.php?g=female",
+        "read_time": 11,
+        "publish_date": "02/05/2023",
+        "hash_tags": ["#Writing", "#Beginner"]
+    },
+    {
+        "id": 3,
+        "author_name": "Dulciana Lapthorne",
+        "blog_title": "Revolutionizing the Workplace: The Benefits of Remote Work",
+        "blog_cover_image": "https://images.unsplash.com/photo-1527784281695-866fa715d9d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author_image": "https://xsgames.co/randomusers/avatar.php?g=male",
+        "read_time": 8,
+        "publish_date": "01/10/2023",
+        "hash_tags": ["#Entertainment", "#Relax"]
+    },
+    {
+        "id": 4,
+        "author_name": "Ibby Philippet",
+        "blog_title": "Exploring the Depths of the Ocean: A Journey of Discovery",
+        "blog_cover_image": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "author_image": "https://xsgames.co/randomusers/avatar.php?g=female",
+        "read_time": 16,
+        "publish_date": "10/06/2022",
+        "hash_tags": ["#Business", "#Money"]
+    },
+    {
+        "id": 5,
+        "author_name": "Roland Brooksbie",
+        "blog_title": "From Burnout to Bliss: Strategies for Finding Work-Life Balance",
+        "blog_cover_image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "author_image": "https://xsgames.co/randomusers/avatar.php?g=male",
+        "read_time": 25,
+        "publish_date": "11/08/2022",
+        "hash_tags": ["#Hobby", "#Entertainment"]
+    }
+]
